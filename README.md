@@ -7,6 +7,8 @@ Fintech Project 1: Antonio, Faith, and Priscilla
 
 ### Hypothesis 1: Unemployment rates increase as the death count from COVID-19 cases increases
 #### Findings and conclusions:
+##### There is a fairly strong positive correlation between total COVID deaths to unemployment expenditure from January 2020 through December 2020 (0.747861). 
+##### April 2020 is clearly when the effects of COVID were more inpactuful on jobs across all sectors in the US. From that point on we can appreciate a steadily decrease of the unemployment rate from 14.8% in April to a more moderate 6.7% in December.
 
 
 ### Hypothesis 2: Personal Consumption Expenditure will decrease proportionally relative to the COVID-19 Case count
